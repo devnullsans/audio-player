@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/audio-player/static/css/main.b09ad024.css",
-    "main.js": "/audio-player/static/js/main.8ecb6d00.js",
+    "main.js": "/audio-player/static/js/main.6a310364.js",
     "service-worker.js": "/audio-player/service-worker.js",
     "index.html": "/audio-player/index.html",
     "main.b09ad024.css.map": "/audio-player/static/css/main.b09ad024.css.map",
-    "main.8ecb6d00.js.map": "/audio-player/static/js/main.8ecb6d00.js.map"
+    "main.6a310364.js.map": "/audio-player/static/js/main.6a310364.js.map"
   },
   "entrypoints": [
     "static/css/main.b09ad024.css",
-    "static/js/main.8ecb6d00.js"
+    "static/js/main.6a310364.js"
   ]
 }
